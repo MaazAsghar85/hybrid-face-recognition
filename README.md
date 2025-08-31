@@ -55,7 +55,7 @@ A real-time face recognition system that combines InsightFace (ML-based) with tr
 pip install opencv-python insightface numpy
 
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/MaazAsghar85/hybrid-face-recognition.git
 cd face
 
 # Run the system
