@@ -1,0 +1,18 @@
+# Core computer vision and image processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Face recognition and analysis
+insightface>=0.7.3
+onnxruntime>=1.15.0
+
+# Image feature extraction
+scikit-image>=0.21.0
+
+# Standard library packages (included with Python, no installation needed):
+# - sqlite3 (built-in)
+# - pickle (built-in) 
+# - datetime (built-in)
+# - time (built-in)
+# - os (built-in)
+# - logging (built-in)
